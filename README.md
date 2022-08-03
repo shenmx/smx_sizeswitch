@@ -1,2 +1,1 @@
-# smx_sizeswitch
-smx_sizeswitch
+smx_sizeswitch_0.25
